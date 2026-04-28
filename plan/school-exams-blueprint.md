@@ -2,9 +2,10 @@
 title: school_exams — Module Blueprint
 description: Module blueprint for school_exams
 published: true
-date: 2026-04-28
-tags: blueprint, plan, school_exams
+date: 2026-04-28T05:42:48.447Z
+tags: school_exams, blueprint, plan
 editor: markdown
+dateCreated: 2026-04-28T05:42:47.849Z
 ---
 
 # `school_exams` — Module Blueprint

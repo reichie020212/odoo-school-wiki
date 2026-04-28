@@ -2,9 +2,10 @@
 title: school_academics — Entity Relationship Diagram
 description: Entity Relationship Diagram for the school_academics module
 published: true
-date: 2026-04-28
+date: 2026-04-28T05:42:38.510Z
 tags: erd, schema, school_academics
 editor: markdown
+dateCreated: 2026-04-28T05:42:37.939Z
 ---
 
 # `school_academics` — Entity Relationship Diagram

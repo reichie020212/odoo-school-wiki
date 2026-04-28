@@ -2,9 +2,10 @@
 title: school_academics — Module Blueprint
 description: Module blueprint for school_academics
 published: true
-date: 2026-04-28
-tags: blueprint, plan, school_academics
+date: 2026-04-28T05:42:46.029Z
+tags: school_academics, blueprint, plan
 editor: markdown
+dateCreated: 2026-04-28T05:42:45.448Z
 ---
 
 # `school_academics` — Module Blueprint

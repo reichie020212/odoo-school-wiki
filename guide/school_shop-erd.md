@@ -2,9 +2,10 @@
 title: school_shop — Entity Relationship Diagram
 description: Entity Relationship Diagram for the school_shop module
 published: true
-date: 2026-04-28
+date: 2026-04-28T05:42:44.493Z
 tags: erd, schema, school_shop
 editor: markdown
+dateCreated: 2026-04-28T05:42:43.971Z
 ---
 
 # `school_shop` — Entity Relationship Diagram

@@ -2,9 +2,10 @@
 title: school_canteen — Entity Relationship Diagram
 description: Entity Relationship Diagram for the school_canteen module
 published: true
-date: 2026-04-28
+date: 2026-04-28T05:42:40.026Z
 tags: erd, schema, school_canteen
 editor: markdown
+dateCreated: 2026-04-28T05:42:39.484Z
 ---
 
 # `school_canteen` — Entity Relationship Diagram

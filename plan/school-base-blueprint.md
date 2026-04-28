@@ -2,9 +2,10 @@
 title: school_base — Module Blueprint
 description: Module blueprint for school_base
 published: true
-date: 2026-04-28
-tags: blueprint, plan, school_base
+date: 2026-04-28T05:42:46.856Z
+tags: school_base, blueprint, plan
 editor: markdown
+dateCreated: 2026-04-28T05:42:46.254Z
 ---
 
 # `school_base` — Module Blueprint

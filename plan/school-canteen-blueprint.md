@@ -2,9 +2,10 @@
 title: school_canteen — Module Blueprint
 description: Module blueprint for school_canteen
 published: true
-date: 2026-04-28
-tags: blueprint, plan, school_canteen
+date: 2026-04-28T05:42:47.607Z
+tags: school_canteen, blueprint, plan
 editor: markdown
+dateCreated: 2026-04-28T05:42:47.081Z
 ---
 
 # `school_canteen` — Module Blueprint

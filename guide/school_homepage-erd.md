@@ -2,9 +2,10 @@
 title: school_homepage — Entity Relationship Diagram
 description: Entity Relationship Diagram for the school_homepage module
 published: true
-date: 2026-04-28
+date: 2026-04-28T05:42:43.016Z
 tags: erd, schema, school_homepage
 editor: markdown
+dateCreated: 2026-04-28T05:42:42.492Z
 ---
 
 # `school_homepage` — Entity Relationship Diagram

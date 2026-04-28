@@ -2,9 +2,10 @@
 title: school_fees — Module Blueprint
 description: Module blueprint for school_fees
 published: true
-date: 2026-04-28
-tags: blueprint, plan, school_fees
+date: 2026-04-28T05:42:49.259Z
+tags: school_fees, blueprint, plan
 editor: markdown
+dateCreated: 2026-04-28T05:42:48.670Z
 ---
 
 # `school_fees` — Module Blueprint

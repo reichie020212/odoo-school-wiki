@@ -2,9 +2,10 @@
 title: school_library — Entity Relationship Diagram
 description: Entity Relationship Diagram for the school_library module
 published: true
-date: 2026-04-28
+date: 2026-04-28T05:42:43.750Z
 tags: erd, schema, school_library
 editor: markdown
+dateCreated: 2026-04-28T05:42:43.232Z
 ---
 
 # `school_library` — Entity Relationship Diagram
