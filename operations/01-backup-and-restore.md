@@ -109,4 +109,3 @@ Use `rsync` / `rclone` / `restic` to ship the `/var/backups/odoo-school/` direct
 ## Next steps
 
 - [Upgrading Odoo between versions →](02-upgrading.md)
-- [Monitoring and logs →](03-monitoring.md) (TODO)

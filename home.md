@@ -15,19 +15,21 @@ A suite of **11 Odoo 19 Community Edition modules** covering the full student li
 
 ## What lives where
 
+Each module name links to its ERD; the [Reference section](reference/home) covers cross-module concerns.
+
 | Area | Covered by |
 |---|---|
-| Students, guardians, teachers, classrooms, academic years, terms | [`school_base`](../../school_base/README.md) |
-| Subjects, courses, weekly schedules, sessions, attendance | [`school_academics`](../../school_academics/README.md) |
-| Grading scales, exams, results, report cards + PDF | [`school_exams`](../../school_exams/README.md) |
-| Fee items, structures, enrollments, scholarships, invoices | [`school_fees`](../../school_fees/README.md) |
-| Book catalog, copy tracking, loans, overdue fines | [`school_library`](../../school_library/README.md) |
-| Daily menus, prepaid wallets, allergy-aware purchases | [`school_canteen`](../../school_canteen/README.md) |
-| Uniforms, textbooks, and supplies with stock integration | [`school_shop`](../../school_shop/README.md) |
-| Buses, routes, stops, student transport assignments | [`school_transport`](../../school_transport/README.md) |
-| Student/guardian dashboard at `/my/school` | [`school_portal`](../../school_portal/README.md) |
-| Mail templates + automation rules | [`school_comms`](../../school_comms/README.md) |
-| Public website-editable landing page at `/` | [`school_homepage`](../../school_homepage/README.md) |
+| Students, guardians, teachers, classrooms, academic years, terms | [`school_base`](guide/school_base-erd.md) |
+| Subjects, courses, weekly schedules, sessions, attendance | [`school_academics`](guide/school_academics-erd.md) |
+| Grading scales, exams, results, report cards + PDF | [`school_exams`](guide/school_exams-erd.md) |
+| Fee items, structures, enrollments, scholarships, invoices | [`school_fees`](guide/school_fees-erd.md) |
+| Book catalog, copy tracking, loans, overdue fines | [`school_library`](guide/school_library-erd.md) |
+| Daily menus, prepaid wallets, allergy-aware purchases | [`school_canteen`](guide/school_canteen-erd.md) |
+| Uniforms, textbooks, and supplies with stock integration | [`school_shop`](guide/school_shop-erd.md) |
+| Buses, routes, stops, student transport assignments | [`school_transport`](guide/school_transport-erd.md) |
+| Student/guardian dashboard at `/my/school` | `school_portal` (see [Portal Guides](portal-guides/home)) |
+| Mail templates + automation rules | [`school_comms`](guide/school_comms-erd.md) |
+| Public website-editable landing page at `/` | [`school_homepage`](guide/school_homepage-erd.md) |
 
 ## How to read this wiki
 

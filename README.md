@@ -37,6 +37,18 @@ odoo-school-wiki/
 │   ├── architecture.md
 │   ├── permissions.md
 │   └── odoo-19-specifics.md
+├── guide/                  (per-module ERDs)
+│   ├── home.md
+│   ├── school_base-erd.md
+│   ├── school_academics-erd.md
+│   ├── school_exams-erd.md
+│   ├── school_fees-erd.md
+│   ├── school_library-erd.md
+│   ├── school_canteen-erd.md
+│   ├── school_shop-erd.md
+│   ├── school_transport-erd.md
+│   ├── school_comms-erd.md
+│   └── school_homepage-erd.md
 └── operations/
     ├── home.md
     ├── 01-backup-and-restore.md
@@ -53,7 +65,7 @@ Wiki.js supports a Git storage module that pulls Markdown files out of a repo an
 2. Enable the module.
 3. Set **Repository URL** to this repo (or your fork).
 4. Leave **Base Directory** empty — Wiki.js treats the repo root as the content tree.
-5. Trigger a sync. Wiki.js walks the tree and creates one page per Markdown file. `home.md` inside each folder becomes the folder index (served at `/getting-started`, `/admin-guides`, etc.).
+5. Trigger a sync. Wiki.js walks the tree and creates one page per Markdown file. The `home.md` inside each folder is just a regular page; we use it as the folder's landing page and link to it explicitly (e.g. `/getting-started/home`) — Wiki.js does **not** auto-serve it as a folder index.
 
 Assets in `_assets/` are served by Wiki.js as attached images; the relative `![alt](_assets/foo.png)` links in each page resolve correctly.
 
@@ -69,15 +81,17 @@ For quick evaluation, open each `.md` in this repo, copy the body (without front
 
 ## Page-to-URL mapping
 
-Wiki.js by default maps `folder/file.md` to the URL `/folder/file`. Our `home.md` files become the folder index:
+Wiki.js maps `folder/file.md` to the URL `/folder/file` — one page per file, no automatic folder index:
 
 | File | Resulting Wiki.js URL |
 |---|---|
 | `home.md` | `/home` (or `/` if set as site home) |
-| `getting-started/home.md` | `/getting-started` |
+| `getting-started/home.md` | `/getting-started/home` |
 | `getting-started/01-overview.md` | `/getting-started/01-overview` |
 | `admin-guides/01-adding-a-student.md` | `/admin-guides/01-adding-a-student` |
 | `_assets/02-homepage.png` | `/_assets/02-homepage.png` (served as asset) |
+
+Because `/getting-started` (without `/home`) is **not** a real page, intra-wiki links to a folder's landing page must point at `folder/home` explicitly.
 
 The intra-wiki links in every page use **relative paths** (`_assets/...`, `./02-installation.md`), which Wiki.js resolves correctly regardless of where in your site the wiki is mounted.
 
