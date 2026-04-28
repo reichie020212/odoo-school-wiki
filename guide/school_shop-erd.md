@@ -1,3 +1,12 @@
+---
+title: school_shop — Entity Relationship Diagram
+description: Entity Relationship Diagram for the school_shop module
+published: true
+date: 2026-04-28
+tags: erd, schema, school_shop
+editor: markdown
+---
+
 # `school_shop` — Entity Relationship Diagram
 
 ```mermaid

@@ -1,3 +1,12 @@
+---
+title: school_fees — Module Blueprint
+description: Module blueprint for school_fees
+published: true
+date: 2026-04-28
+tags: blueprint, plan, school_fees
+editor: markdown
+---
+
 # `school_fees` — Module Blueprint
 
 **Status:** approved (Red 2026-04-24, with explicit autonomy: all four design-question recommendations go).

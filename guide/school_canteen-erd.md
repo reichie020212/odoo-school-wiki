@@ -1,3 +1,12 @@
+---
+title: school_canteen — Entity Relationship Diagram
+description: Entity Relationship Diagram for the school_canteen module
+published: true
+date: 2026-04-28
+tags: erd, schema, school_canteen
+editor: markdown
+---
+
 # `school_canteen` — Entity Relationship Diagram
 
 ```mermaid

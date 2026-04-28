@@ -1,3 +1,12 @@
+---
+title: school_exams — Module Blueprint
+description: Module blueprint for school_exams
+published: true
+date: 2026-04-28
+tags: blueprint, plan, school_exams
+editor: markdown
+---
+
 # `school_exams` — Module Blueprint
 
 **Status:** approved (Red 2026-04-24: configurable scales, weighted course grade, ship a basic QWeb PDF).
