@@ -1,3 +1,12 @@
+---
+title: school_homepage — Entity Relationship Diagram
+description: Entity Relationship Diagram for the school_homepage module
+published: true
+date: 2026-04-28
+tags: erd, schema, school_homepage
+editor: markdown
+---
+
 # `school_homepage` — Entity Relationship Diagram
 
 `school_homepage` defines no new business models. It ships a single HTTP controller + a QWeb template, backed by live `search_count` reads of entities defined in upstream modules. The "ERD" here is really a data-flow diagram — what the homepage controller reads from the rest of the suite:

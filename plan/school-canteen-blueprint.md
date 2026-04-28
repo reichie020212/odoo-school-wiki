@@ -1,3 +1,12 @@
+---
+title: school_canteen — Module Blueprint
+description: Module blueprint for school_canteen
+published: true
+date: 2026-04-28
+tags: blueprint, plan, school_canteen
+editor: markdown
+---
+
 # `school_canteen` — Module Blueprint
 
 **Status:** autonomous execution under Red's blanket approval 2026-04-24.

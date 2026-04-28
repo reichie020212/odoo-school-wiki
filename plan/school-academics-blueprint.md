@@ -1,3 +1,12 @@
+---
+title: school_academics — Module Blueprint
+description: Module blueprint for school_academics
+published: true
+date: 2026-04-28
+tags: blueprint, plan, school_academics
+editor: markdown
+---
+
 # `school_academics` — Module Blueprint
 
 **Status:** draft, approved in principle (Red 2026-04-24: all 3 design decisions confirmed).

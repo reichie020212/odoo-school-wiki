@@ -1,3 +1,12 @@
+---
+title: school_transport — Entity Relationship Diagram
+description: Entity Relationship Diagram for the school_transport module
+published: true
+date: 2026-04-28
+tags: erd, schema, school_transport
+editor: markdown
+---
+
 # `school_transport` — Entity Relationship Diagram
 
 ```mermaid

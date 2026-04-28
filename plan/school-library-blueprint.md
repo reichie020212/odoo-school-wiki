@@ -1,3 +1,12 @@
+---
+title: school_library — Module Blueprint
+description: Module blueprint for school_library
+published: true
+date: 2026-04-28
+tags: blueprint, plan, school_library
+editor: markdown
+---
+
 # `school_library` — Module Blueprint
 
 **Status:** autonomous execution per Red's blanket approval 2026-04-24 (AFK).

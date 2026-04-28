@@ -1,3 +1,12 @@
+---
+title: school_base — Entity Relationship Diagram
+description: Entity Relationship Diagram for the school_base module
+published: true
+date: 2026-04-28
+tags: erd, schema, school_base
+editor: markdown
+---
+
 # `school_base` — Entity Relationship Diagram
 
 ```mermaid

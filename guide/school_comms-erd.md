@@ -1,3 +1,12 @@
+---
+title: school_comms — Entity Relationship Diagram
+description: Entity Relationship Diagram for the school_comms module
+published: true
+date: 2026-04-28
+tags: erd, schema, school_comms
+editor: markdown
+---
+
 # `school_comms` — Entity Relationship Diagram
 
 `school_comms` defines no new business models — it ships **data records** only: three `mail.template` records and three `base.automation` rules that wire them to state transitions on upstream school models. Each automation rule also owns an `ir.actions.server` record that the rule invokes.

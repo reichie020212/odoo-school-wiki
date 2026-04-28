@@ -1,3 +1,12 @@
+---
+title: school_base — Module Blueprint
+description: Module blueprint for school_base
+published: true
+date: 2026-04-28
+tags: blueprint, plan, school_base
+editor: markdown
+---
+
 # `school_base` — Module Blueprint
 
 **Status:** Draft, pending Red's sign-off.
