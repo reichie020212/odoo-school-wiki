@@ -110,4 +110,4 @@ Wire it as an `ir.rule` record scoped to the teacher group. See `school_portal/s
 ## Next steps
 
 - [Odoo 19 specifics we rely on →](odoo-19-specifics.md)
-- [Back to reference index →](../reference/)
+- [Back to reference index →](../reference/home)

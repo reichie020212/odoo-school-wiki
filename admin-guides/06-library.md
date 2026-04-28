@@ -110,4 +110,4 @@ From a loan in `borrowed` state, click **Mark Lost**. Both the loan and the copy
 ## Next steps
 
 - [Canteen: wallets and dietary tags →](07-canteen.md)
-- [Transport: routes and assignments →](../admin-guides/)
+- [Back to admin guides index →](../admin-guides/home)

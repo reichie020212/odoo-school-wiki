@@ -31,11 +31,11 @@ A suite of **11 Odoo 19 Community Edition modules** covering the full student li
 
 ## How to read this wiki
 
-- **[Getting Started →](getting-started/)** — install the stack, initialise a database, get to your first login.
-- **[Admin Guides →](admin-guides/)** — everyday workflows: adding students, creating exams, generating fee invoices, managing library loans, ...
-- **[Portal Guides →](portal-guides/)** — what students and guardians see when they sign in at `/my/school`.
-- **[Reference →](reference/)** — architecture diagrams, permission matrices, Odoo 19 specifics you need to know.
-- **[Operations →](operations/)** — backup, restore, upgrading between Odoo versions.
+- **[Getting Started →](getting-started/home)** — install the stack, initialise a database, get to your first login.
+- **[Admin Guides →](admin-guides/home)** — everyday workflows: adding students, creating exams, generating fee invoices, managing library loans, ...
+- **[Portal Guides →](portal-guides/home)** — what students and guardians see when they sign in at `/my/school`.
+- **[Reference →](reference/home)** — architecture diagrams, permission matrices, Odoo 19 specifics you need to know.
+- **[Operations →](operations/home)** — backup, restore, upgrading between Odoo versions.
 
 Every page that shows a UI flow has a screenshot captured from a fresh install with the shipped demo data — you should see the same thing on your install if you tick "Load demonstration data" when creating the database.
 

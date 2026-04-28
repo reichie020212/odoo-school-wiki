@@ -76,5 +76,5 @@ Modern Chrome / Firefox / Safari / Edge — whatever you browse the rest of the 
 
 ## Next steps
 
-- [How to request a PDF report card →](../portal-guides/) (contact office)
-- [Back to the knowledge base home →](../home.md)
+- [How to request a PDF report card →](../portal-guides/home) (contact office)
+- [Back to the knowledge base home →](../home)
