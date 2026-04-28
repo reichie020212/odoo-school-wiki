@@ -2,9 +2,10 @@
 title: Upgrading between Odoo versions
 description: How to lift a school_* install from Odoo 19 to a future major
 published: true
-date: 2026-04-25
+date: 2026-04-28T07:35:12.958Z
 tags: operations, upgrade, migration
 editor: markdown
+dateCreated: 2026-04-28T07:35:12.409Z
 ---
 
 # Upgrading between Odoo versions

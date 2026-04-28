@@ -2,9 +2,10 @@
 title: Portal Guides
 description: For students and guardians using /my/school
 published: true
-date: 2026-04-25
-tags: portal, index
+date: 2026-04-28T07:35:15.190Z
+tags: index, portal
 editor: markdown
+dateCreated: 2026-04-28T07:35:14.684Z
 ---
 
 # Portal Guides

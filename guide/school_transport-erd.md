@@ -2,10 +2,10 @@
 title: school_transport — Entity Relationship Diagram
 description: Entity Relationship Diagram for the school_transport module
 published: true
-date: 2026-04-28T05:42:45.230Z
+date: 2026-04-28T07:57:53.062Z
 tags: erd, schema, school_transport
 editor: markdown
-dateCreated: 2026-04-28T05:42:44.713Z
+dateCreated: 2026-04-28T07:57:52.533Z
 ---
 
 # `school_transport` — Entity Relationship Diagram

@@ -2,9 +2,10 @@
 title: Admin Guides
 description: Everyday workflows for registrars, teachers, and school admins
 published: true
-date: 2026-04-25
-tags: admin, index
+date: 2026-04-28T07:35:08.372Z
+tags: index, admin
 editor: markdown
+dateCreated: 2026-04-28T07:35:07.852Z
 ---
 
 # Admin Guides

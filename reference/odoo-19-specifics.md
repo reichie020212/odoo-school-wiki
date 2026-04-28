@@ -2,9 +2,10 @@
 title: Odoo 19 specifics you need to know
 description: Breaking changes from Odoo 17/18 that the School Management System relies on
 published: true
-date: 2026-04-25
-tags: reference, odoo-19, upgrade
+date: 2026-04-28T07:35:17.519Z
+tags: upgrade, reference, odoo-19
 editor: markdown
+dateCreated: 2026-04-28T07:35:16.951Z
 ---
 
 # Odoo 19 specifics you need to know

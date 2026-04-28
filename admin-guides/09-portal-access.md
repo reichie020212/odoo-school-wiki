@@ -2,9 +2,10 @@
 title: Giving students and guardians portal access
 description: Create portal users so a family can self-serve via /my/school
 published: true
-date: 2026-04-25
+date: 2026-04-28T07:35:07.632Z
 tags: admin, portal, access
 editor: markdown
+dateCreated: 2026-04-28T07:35:07.090Z
 ---
 
 # Giving students and guardians portal access

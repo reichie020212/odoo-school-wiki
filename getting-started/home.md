@@ -2,9 +2,10 @@
 title: Getting Started
 description: Install the School Management System and get to your first login
 published: true
-date: 2026-04-25
-tags: getting-started, index
+date: 2026-04-28T07:52:46.160Z
+tags: index, getting-started
 editor: markdown
+dateCreated: 2026-04-28T07:35:10.886Z
 ---
 
 # Getting Started

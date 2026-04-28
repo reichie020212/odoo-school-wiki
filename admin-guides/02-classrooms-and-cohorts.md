@@ -2,9 +2,10 @@
 title: Classrooms and cohorts
 description: Create an academic year, its terms, and classrooms with homeroom teachers
 published: true
-date: 2026-04-25
+date: 2026-04-28T07:35:02.189Z
 tags: admin, classrooms, academic-year
 editor: markdown
+dateCreated: 2026-04-28T07:35:01.636Z
 ---
 
 # Classrooms and cohorts

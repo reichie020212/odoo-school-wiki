@@ -2,9 +2,10 @@
 title: Reference
 description: Deep technical reference — architecture, permissions, Odoo 19 specifics
 published: true
-date: 2026-04-25
-tags: reference, index
+date: 2026-04-28T07:57:54.917Z
+tags: index, reference
 editor: markdown
+dateCreated: 2026-04-28T07:35:16.199Z
 ---
 
 # Reference

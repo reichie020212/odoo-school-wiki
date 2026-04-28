@@ -2,9 +2,10 @@
 title: Using the /my/school dashboard
 description: What students and guardians see when they sign in at /my/school
 published: true
-date: 2026-04-25
+date: 2026-04-28T07:52:47.246Z
 tags: portal, student, guardian, parent
 editor: markdown
+dateCreated: 2026-04-28T07:35:13.927Z
 ---
 
 # Using the /my/school dashboard

@@ -2,9 +2,10 @@
 title: School Management System — Home
 description: Landing page for the odoo-school Wiki.js knowledge base
 published: true
-date: 2026-04-25
+date: 2026-04-28T07:57:53.833Z
 tags: overview, index, home
 editor: markdown
+dateCreated: 2026-04-28T07:35:00.019Z
 ---
 
 # School Management System

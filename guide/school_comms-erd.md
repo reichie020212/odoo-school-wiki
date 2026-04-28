@@ -2,10 +2,10 @@
 title: school_comms — Entity Relationship Diagram
 description: Entity Relationship Diagram for the school_comms module
 published: true
-date: 2026-04-28T05:42:40.771Z
+date: 2026-04-28T07:57:48.526Z
 tags: erd, schema, school_comms
 editor: markdown
-dateCreated: 2026-04-28T05:42:40.248Z
+dateCreated: 2026-04-28T07:57:48.003Z
 ---
 
 # `school_comms` — Entity Relationship Diagram

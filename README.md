@@ -1,3 +1,13 @@
+---
+title: README
+description: 
+published: true
+date: 2026-04-28T07:57:45.016Z
+tags: 
+editor: markdown
+dateCreated: 2026-04-28T07:34:59.245Z
+---
+
 # Wiki.js knowledge base
 
 This repo is a **Wiki.js-ready** tree of guides, how-tos, and reference material for the School Management System. Every page has Wiki.js-compatible YAML frontmatter (`title`, `description`, `published`, `date`, `tags`, `editor`) so Wiki.js can serve them directly via its Git storage module.

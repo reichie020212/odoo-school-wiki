@@ -2,9 +2,10 @@
 title: Exams, grades, and report cards
 description: Create exams, record results, and issue term report cards with a printable PDF
 published: true
-date: 2026-04-25
+date: 2026-04-28T07:35:03.759Z
 tags: admin, exams, grades, report-cards
 editor: markdown
+dateCreated: 2026-04-28T07:35:03.188Z
 ---
 
 # Exams, grades, and report cards

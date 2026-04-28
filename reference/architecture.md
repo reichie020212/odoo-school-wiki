@@ -2,9 +2,10 @@
 title: System architecture
 description: Module dependency graph, data flow, and key Odoo 19 idioms used across the suite
 published: true
-date: 2026-04-25
+date: 2026-04-28T07:35:15.973Z
 tags: reference, architecture
 editor: markdown
+dateCreated: 2026-04-28T07:35:15.411Z
 ---
 
 # System architecture

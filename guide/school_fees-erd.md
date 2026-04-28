@@ -2,10 +2,10 @@
 title: school_fees — Entity Relationship Diagram
 description: Entity Relationship Diagram for the school_fees module
 published: true
-date: 2026-04-28T05:42:42.273Z
+date: 2026-04-28T07:57:50.053Z
 tags: erd, schema, school_fees
 editor: markdown
-dateCreated: 2026-04-28T05:42:41.743Z
+dateCreated: 2026-04-28T07:57:49.499Z
 ---
 
 # `school_fees` — Entity Relationship Diagram

@@ -2,9 +2,10 @@
 title: Module ERDs
 description: Per-module Entity Relationship Diagrams for the School Management System
 published: true
-date: 2026-04-28
-tags: erd, schema, index
+date: 2026-04-28T07:57:45.542Z
+tags: index, erd, schema
 editor: markdown
+dateCreated: 2026-04-28T07:57:45.030Z
 ---
 
 # Module ERDs

@@ -2,9 +2,10 @@
 title: Permissions matrix
 description: Who can do what across the School Management System
 published: true
-date: 2026-04-25
+date: 2026-04-28T07:52:47.827Z
 tags: reference, security, permissions
 editor: markdown
+dateCreated: 2026-04-28T07:35:17.741Z
 ---
 
 # Permissions matrix

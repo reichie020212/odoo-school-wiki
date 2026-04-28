@@ -2,10 +2,10 @@
 title: school_base — Entity Relationship Diagram
 description: Entity Relationship Diagram for the school_base module
 published: true
-date: 2026-04-28T05:42:39.265Z
+date: 2026-04-28T07:57:47.032Z
 tags: erd, schema, school_base
 editor: markdown
-dateCreated: 2026-04-28T05:42:38.736Z
+dateCreated: 2026-04-28T07:57:46.508Z
 ---
 
 # `school_base` — Entity Relationship Diagram

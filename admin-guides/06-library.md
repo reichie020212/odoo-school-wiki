@@ -2,9 +2,10 @@
 title: Library — books, copies, and loans
 description: Catalog books, track physical copies, and run the borrow/return workflow
 published: true
-date: 2026-04-25
+date: 2026-04-28T07:52:45.641Z
 tags: admin, library, loans
 editor: markdown
+dateCreated: 2026-04-28T07:35:04.760Z
 ---
 
 # Library — books, copies, and loans

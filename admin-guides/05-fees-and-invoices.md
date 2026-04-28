@@ -2,9 +2,10 @@
 title: Fees, enrollments, and invoices
 description: Build fee structures, enroll students, apply scholarships, and generate invoices
 published: true
-date: 2026-04-25
+date: 2026-04-28T07:35:04.539Z
 tags: admin, finance, fees, invoicing
 editor: markdown
+dateCreated: 2026-04-28T07:35:03.981Z
 ---
 
 # Fees, enrollments, and invoices

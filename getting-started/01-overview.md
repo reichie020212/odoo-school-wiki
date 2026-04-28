@@ -2,9 +2,10 @@
 title: What is the School Management System
 description: High-level overview of what the suite does and how the modules fit together
 published: true
-date: 2026-04-25
-tags: getting-started, overview
+date: 2026-04-28T07:35:09.140Z
+tags: overview, getting-started
 editor: markdown
+dateCreated: 2026-04-28T07:35:08.594Z
 ---
 
 # What is the School Management System

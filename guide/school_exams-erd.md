@@ -2,10 +2,10 @@
 title: school_exams — Entity Relationship Diagram
 description: Entity Relationship Diagram for the school_exams module
 published: true
-date: 2026-04-28T05:42:41.526Z
+date: 2026-04-28T07:57:49.276Z
 tags: erd, schema, school_exams
 editor: markdown
-dateCreated: 2026-04-28T05:42:40.987Z
+dateCreated: 2026-04-28T07:57:48.747Z
 ---
 
 # `school_exams` — Entity Relationship Diagram

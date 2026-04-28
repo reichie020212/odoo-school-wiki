@@ -2,9 +2,10 @@
 title: Canteen — wallets and purchases
 description: Prepaid wallets, menus, and allergy-aware purchases
 published: true
-date: 2026-04-25
+date: 2026-04-28T07:35:06.098Z
 tags: admin, canteen, wallet, allergies
 editor: markdown
+dateCreated: 2026-04-28T07:35:05.538Z
 ---
 
 # Canteen — wallets and purchases

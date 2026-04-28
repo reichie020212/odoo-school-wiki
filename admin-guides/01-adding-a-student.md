@@ -2,9 +2,10 @@
 title: Adding a student
 description: Create a student record, link guardians, and assign a classroom
 published: true
-date: 2026-04-25
+date: 2026-04-28T07:35:01.418Z
 tags: admin, students, enrollment
 editor: markdown
+dateCreated: 2026-04-28T07:35:00.853Z
 ---
 
 # Adding a student

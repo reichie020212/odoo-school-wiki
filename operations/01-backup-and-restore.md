@@ -2,9 +2,10 @@
 title: Backup and restore
 description: Dump and restore the school_* databases safely
 published: true
-date: 2026-04-25
+date: 2026-04-28T07:57:54.384Z
 tags: operations, backup, postgres
 editor: markdown
+dateCreated: 2026-04-28T07:35:11.640Z
 ---
 
 # Backup and restore

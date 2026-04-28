@@ -2,9 +2,10 @@
 title: Communications — mail templates and automation
 description: Automated emails for fee invoices, report cards, and published exams
 published: true
-date: 2026-04-25
+date: 2026-04-28T07:35:06.870Z
 tags: admin, mail, automation, notifications
 editor: markdown
+dateCreated: 2026-04-28T07:35:06.326Z
 ---
 
 # Communications — mail templates and automation

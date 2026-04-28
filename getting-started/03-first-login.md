@@ -2,9 +2,10 @@
 title: First login and initial setup
 description: Log in, set your school identity, and get ready for day-to-day ops
 published: true
-date: 2026-04-25
+date: 2026-04-28T07:35:10.663Z
 tags: getting-started, setup, onboarding
 editor: markdown
+dateCreated: 2026-04-28T07:35:10.115Z
 ---
 
 # First login and initial setup

@@ -2,9 +2,10 @@
 title: Academics — subjects, courses, sessions, attendance
 description: Manage the curriculum catalog and the course offerings per term
 published: true
-date: 2026-04-25
+date: 2026-04-28T07:35:02.960Z
 tags: admin, academics, courses, attendance
 editor: markdown
+dateCreated: 2026-04-28T07:35:02.410Z
 ---
 
 # Academics — subjects, courses, sessions, attendance

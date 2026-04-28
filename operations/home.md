@@ -2,9 +2,10 @@
 title: Operations
 description: Running a production School Management System instance
 published: true
-date: 2026-04-25
-tags: operations, index
+date: 2026-04-28T07:35:13.704Z
+tags: index, operations
 editor: markdown
+dateCreated: 2026-04-28T07:35:13.194Z
 ---
 
 # Operations

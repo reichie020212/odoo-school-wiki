@@ -2,9 +2,10 @@
 title: Installing the School Management System
 description: Bring up the dev stack with Docker Compose and install the module suite
 published: true
-date: 2026-04-25
+date: 2026-04-28T07:35:09.895Z
 tags: getting-started, installation, docker
 editor: markdown
+dateCreated: 2026-04-28T07:35:09.360Z
 ---
 
 # Installing the School Management System
