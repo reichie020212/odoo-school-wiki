@@ -1,3 +1,12 @@
+---
+title: What is the School Management System
+description: High-level overview of what the suite does and how the modules fit together
+published: true
+date: 2026-04-25
+tags: getting-started, overview
+editor: markdown
+---
+
 # What is the School Management System
 
 The School Management System (SMS) is a set of **11 Odoo 19 Community Edition modules** that together cover the complete student lifecycle for a K–12 school: admissions, class scheduling, grading, tuition billing, library, canteen, transport, parent self-service, and outbound notifications.
