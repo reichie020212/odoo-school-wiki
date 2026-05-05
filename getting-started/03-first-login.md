@@ -16,6 +16,8 @@ Assumes you've completed the [installation](02-installation.md) and have the sta
 
 Visit **<http://localhost:8069/web/login>**. Default credentials on a fresh demo install: **admin / admin**.
 
+> Want to try the system as a student, guardian, teacher, or registrar instead? See the [demo users](04-demo-users.md) page for the pre-seeded accounts.
+
 ![Login form](../_assets/01-login.png)
 
 ## Set your school identity
