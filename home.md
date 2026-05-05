@@ -12,6 +12,8 @@ dateCreated: 2026-04-28T07:35:00.019Z
 
 A suite of **11 Odoo 19 Community Edition modules** covering the full student lifecycle: admissions, academics, exams, fees, library, canteen, shop, transport, parent portal, notifications, and a public homepage.
 
+> **New here?** See the [Features →](features.md) page for an at-a-glance list of everything the suite does.
+
 ![Public homepage](_assets/02-homepage.png)
 
 ## What lives where
@@ -34,6 +36,7 @@ Each module name links to its ERD; the [Reference section](reference/home) cover
 
 ## How to read this wiki
 
+- **[Features →](features.md)** — full feature list grouped by module, plus the cross-cutting capabilities inherited from Odoo 19.
 - **[Getting Started →](getting-started/home)** — install the stack, initialise a database, get to your first login.
 - **[Admin Guides →](admin-guides/home)** — everyday workflows: adding students, creating exams, generating fee invoices, managing library loans, ...
 - **[Portal Guides →](portal-guides/home)** — what students and guardians see when they sign in at `/my/school`.
