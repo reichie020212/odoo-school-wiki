@@ -22,6 +22,7 @@ When you install the suite with demo data (the default for a fresh install, i.e.
 | **Guardian** | `demo_guardian` | `demo_guardian` | Portal at `/my/school` — sees data for the student(s) linked to this guardian account. |
 | **Teacher** | `demo_teacher` | `demo_teacher` | Backend at `/web` — can mark attendance, enter exam results, and add report-card comments for the classes they teach. |
 | **Registrar** | `demo_registrar` | `demo_registrar` | Backend at `/web` — full administrative access: students, classrooms, exams, fees, library, canteen, shop, transport. |
+| **Program Admin** | `demo_admin` | `demo_admin` | Backend at `/web` — can do anything across the suite **except** installing apps or opening the **Settings** menu. Use this account to demo day-to-day administration without exposing the technical configuration surface. |
 
 ## Tips
 
